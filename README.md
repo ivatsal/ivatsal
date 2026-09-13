@@ -13,7 +13,7 @@
   <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:vtslsonani@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -150,8 +150,6 @@ A technology stack is only valuable when it solves the right problem.
 ---
 
 ## 📌 Selected Project Areas
-
-> Replace this section with links to your strongest public repositories and live products for maximum credibility.
 
 ### 🚀 SaaS & Web Platforms
 Scalable web applications combining modern frontend experiences with reliable backend services, authentication, APIs, and persistent data.
