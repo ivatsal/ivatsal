@@ -1,337 +1,206 @@
 <div align="center">
 
-Vatsal Sonani
+# Hi, I'm Vatsal Sonani 👋
 
-Full-Stack Web Developer · Software Engineer · Digital Product Builder
+### Full-Stack Web Developer · Software Engineer · SaaS & Business Application Builder
 
-I build modern web applications, business software, and scalable digital products.
+**I design and build modern, scalable web applications — from idea to production.**
 
 <p>
   <a href="https://www.linkedin.com/in/vatsalsonani/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
-    <img src="https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<!-- Live Upwork stats — auto-updated daily by .github/workflows/update-upwork-stats.yml -->
+<p>
+  <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ivatsal/ivatsal/main/badges/top-rated.json" alt="Upwork Status"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ivatsal/ivatsal/main/badges/job-success.json" alt="Upwork Job Success"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ivatsal/ivatsal/main/badges/rating.json" alt="Upwork Rating"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ivatsal/ivatsal/main/badges/total-hours.json" alt="Upwork Hours"/>
   </a>
 </p>
 
 </div>
 
-👋 About Me
+---
 
-I'm Vatsal Sonani, a Full-Stack Web Developer and software builder focused on creating reliable, scalable and business-oriented digital products.
+## 👋 About Me
 
-I work across the complete web development lifecycle — from idea, architecture and UI/UX implementation to APIs, databases, authentication, deployment and optimization.
+I'm **Vatsal Sonani**, a **Full-Stack Web Developer** based in Surat, India, focused on building reliable, scalable, and business-oriented digital products.
 
-My goal isn't simply to write code. It's to build software that is:
+I work across the complete web development lifecycle — **idea, architecture, UI/UX, APIs, databases, authentication, deployment, and optimization.**
 
-Useful · Fast · Scalable · Maintainable · Secure · Built for real users
+> **Useful · Fast · Scalable · Maintainable · Secure · Built for real users**
 
-What I do
+### What I Do
 
-🚀 Build modern full-stack web applications
+- 🚀 Build modern **full-stack web applications**
+- 🌐 Develop high-quality **business websites and web platforms**
+- ⚙️ Design and integrate **REST APIs and backend systems**
+- 🧩 Build **SaaS, dashboards, CRM/ERP, and business applications**
+- 🛒 Develop **e-commerce and custom digital solutions**
+- ☁️ Deploy and maintain applications on modern cloud platforms
+- 🤖 Integrate **AI, automation, and third-party services**
+- 📈 Improve performance, usability, and maintainability of existing products
 
-🌐 Develop high-quality business websites and web platforms
+---
 
-⚙️ Design and integrate REST APIs and backend systems
+## 🏆 Professional Track Record
 
-🧩 Build SaaS, dashboards, CRM/ERP and business applications
+<div align="center">
 
-🛒 Develop e-commerce and custom digital solutions
+**Top Rated on Upwork · 100% Job Success · 5.0/5 Rating · 2.6K+ Hours Worked**
 
-☁️ Deploy and maintain applications across modern cloud platforms
+[**View My Upwork Profile →**](https://www.upwork.com/freelancers/~01611e3051755475c2)
 
-🤖 Integrate AI, automation and third-party services
+</div>
 
-📈 Improve performance, usability and maintainability of existing products
+My freelance work spans practical, client-focused development: **full-stack web development, frontend engineering, custom software, WordPress, Shopify, UI/UX implementation, and technical problem solving.**
 
-🏆 Professional Track Record
+The badges above pull live from my Upwork profile via a scheduled GitHub Action — no manual updates needed.
 
-Upwork
+---
 
-Top Rated · 100% Job Success · 5.0/5 Rating · 2.6K+ Hours · 4 Jobs
+## 🧠 Full-Stack Development
 
-View Upwork Profile →
+I work across multiple modern architectures and choose technologies based on what the product actually needs.
 
-My freelance work spans practical client-focused development including full-stack web development, website development, frontend engineering, custom software, WordPress, Shopify, UI/UX implementation and technical problem solving.
+| Stack | Technologies | Best For |
+|---|---|---|
+| **MERN** | MongoDB · Express.js · React · Node.js | SaaS products, dashboards, REST APIs, real-time apps |
+| **MEAN** | MongoDB · Express.js · Angular · Node.js | Enterprise apps, internal systems, large frontend codebases |
+| **Modern Next.js** | Next.js · React · TypeScript · Node.js · PostgreSQL/MongoDB | Production SaaS, SEO-focused sites, high-performance platforms |
+| **Other** | PHP · MySQL · Python · Firebase · Supabase | Custom builds, rapid prototyping, legacy integrations |
 
-🧠 Full-Stack Development
+---
 
-I work across multiple modern architectures and choose technologies according to the product's requirements.
+## 🛠️ Technology Stack
 
-MERN
+**Frontend**
 
-MongoDB · Express.js · React · Node.js
-
-Ideal for:
-
-SaaS products
-
-Dashboards
-
-Business applications
-
-REST APIs
-
-Real-time web applications
-
-MEAN
-
-MongoDB · Express.js · Angular · Node.js
-
-Ideal for:
-
-Enterprise applications
-
-Internal business systems
-
-Structured applications
-
-Large frontend codebases
-
-Modern Next.js Stack
-
-Next.js · React · TypeScript · Node.js/API · PostgreSQL/MongoDB
-
-Ideal for:
-
-Production SaaS
-
-SEO-focused websites
-
-High-performance web applications
-
-Modern product platforms
-
-Other Web Stacks
-
-PHP · MySQL · Python · Firebase · Supabase · REST APIs
-
-🛠️ Technology Stack
-
-Frontend
-
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,bootstrap" />
-</p>
 
-HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Angular · Vue · Tailwind CSS · Bootstrap
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Angular` `Vue` `Tailwind CSS` `Bootstrap`
 
-Backend
+**Backend**
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,python,java" />
-</p>
 
-Node.js · Express.js · NestJS · PHP · Python · Java · REST APIs
+`Node.js` `Express.js` `NestJS` `PHP` `Python` `Java` `REST APIs`
 
-Databases
+**Databases**
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase" />
-</p>
 
-MongoDB · MySQL · PostgreSQL · Redis · Firebase · Supabase
+`MongoDB` `MySQL` `PostgreSQL` `Redis` `Firebase` `Supabase`
 
-Cloud / DevOps
+**Cloud / DevOps**
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,nginx" />
-</p>
 
-Git · GitHub · Docker · AWS · Vercel · Linux · Nginx
+`Git` `GitHub` `Docker` `AWS` `Vercel` `Linux` `Nginx`
 
-AI / Automation
+**AI / Automation**
 
-AI API Integration · AI-assisted Development · Automation · Analytics · Third-party API Integrations
+`AI API Integration` `AI-Assisted Development` `Workflow Automation` `Analytics` `Third-Party API Integration`
 
-💼 What I Build
+---
 
-Area
+## 💼 What I Build
 
-Solutions
+| Area | Solutions |
+|---|---|
+| 🌐 Web Development | Business websites, web apps, portals, and platforms |
+| ⚛️ Frontend | React, Next.js, Angular, Vue, responsive UI |
+| ⚙️ Backend | Node.js, Express, APIs, authentication, and services |
+| 🗄️ Data | MongoDB, PostgreSQL, MySQL, Firebase, Supabase |
+| 🚀 SaaS | Multi-user platforms, dashboards, subscription products |
+| 🏢 Business Software | CRM, ERP, admin panels, workflow systems |
+| 🛒 E-commerce | Custom stores, Shopify, commerce integrations |
+| 🤖 Automation | API integrations, workflows, AI-powered features |
+| ☁️ Deployment | Cloud hosting, Docker, Linux, production deployment |
+| 📈 Optimization | Performance, UX, maintainability, technical improvements |
 
-🌐 Web Development
+---
 
-Business websites, web apps, portals and platforms
+## 🎯 Development Philosophy
 
-⚛️ Frontend
-
-React, Next.js, Angular, Vue, responsive UI
-
-⚙️ Backend
-
-Node.js, Express, APIs, authentication and services
-
-🗄️ Data
-
-MongoDB, PostgreSQL, MySQL, Firebase, Supabase
-
-🚀 SaaS
-
-Multi-user platforms, dashboards and subscription products
-
-🏢 Business Software
-
-CRM, ERP, admin panels and workflow systems
-
-🛒 E-commerce
-
-Custom stores, Shopify and commerce integrations
-
-🤖 Automation
-
-API integrations, workflows and AI-powered features
-
-☁️ Deployment
-
-Cloud hosting, Docker, Linux and production deployment
-
-📈 Optimization
-
-Performance, UX, maintainability and technical improvements
-
-🎯 Development Philosophy
-
-I believe strong software sits at the intersection of technology, product and business.
-
-Business Problem
-       ↓
-Product Strategy
-       ↓
-UX / Interface
-       ↓
-Architecture
-       ↓
-Frontend + Backend
-       ↓
-Database + APIs
-       ↓
-Testing + Security
-       ↓
-Deployment
-       ↓
-Performance + Growth
+```text
+Business Problem → Product Strategy → UX / Interface → Architecture
+→ Frontend + Backend → Database + APIs → Testing + Security
+→ Deployment → Performance + Growth
+```
 
 A technology stack is only valuable when it solves the right problem.
 
-🔥 Core Expertise
+---
 
-Full-Stack Web Development
-Frontend Engineering
-Backend Engineering
-React Development
-Next.js Development
-Angular Development
-Node.js Development
-REST API Development
-Database Architecture
-SaaS Development
-Business Applications
-CRM / ERP Systems
-Admin Dashboards
-E-commerce Development
-WordPress Development
-Shopify Development
-UI / UX Implementation
-Cloud Deployment
-Performance Optimization
-AI Integration
-Automation
-Third-Party Integrations
+## 📌 Selected Project Areas
 
-📌 Selected Project Areas
+> Replace this section with links to your strongest public repositories and live products for maximum credibility.
 
-Replace these with your strongest public repositories and live products.
+### 🚀 SaaS & Web Platforms
+Scalable web applications combining modern frontend experiences with reliable backend services, authentication, APIs, and persistent data.
+**Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL/MongoDB
 
-🚀 SaaS & Web Platforms
+### 🏢 Business Applications
+Custom software built around real business workflows — dashboards, administration, CRM, ERP, and operational systems.
+**Stack:** React/Angular · Node.js · Express · MongoDB/PostgreSQL
 
-Scalable web applications combining modern frontend experiences with reliable backend services, authentication, APIs and persistent data.
+### 🛒 E-commerce
+Conversion-focused commerce experiences, custom integrations, and business-specific workflows.
+**Stack:** React · Next.js · Shopify · APIs · Payment Integrations
 
-Typical stack: Next.js · React · TypeScript · Node.js · PostgreSQL/MongoDB
-
-🏢 Business Applications
-
-Custom software designed around real business workflows — dashboards, administration, CRM, ERP and operational systems.
-
-Typical stack: React/Angular · Node.js · Express · MongoDB/PostgreSQL
-
-🛒 E-commerce
-
-Conversion-focused commerce experiences, custom integrations and business-specific workflows.
-
-Typical stack: React · Next.js · Shopify · APIs · Payment Integrations
-
-🤖 AI & Automation
-
+### 🤖 AI & Automation
 AI-enabled features and automated workflows that reduce repetitive work and improve digital products.
+**Stack:** JavaScript/TypeScript · APIs · AI Services · Automation Workflows
 
-Typical stack: JavaScript/TypeScript · APIs · AI services · automation workflows
+---
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ivatsal&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivatsal&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ivatsal&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-🌱 Currently Building & Learning
+---
 
-I'm continuously exploring:
+## 🌱 Currently Building & Learning
 
-Advanced React & Next.js
+- Advanced **React & Next.js**
+- Scalable **TypeScript architectures**
+- Modern **Node.js backend systems**
+- SaaS and multi-tenant architecture
+- Cloud-native development
+- AI-powered applications
+- Application security & performance engineering
 
-Scalable TypeScript architectures
+---
 
-Modern Node.js backend systems
+## 🤝 Let's Build Something
 
-SaaS and multi-tenant architecture
+I'm open to collaborating on:
 
-Cloud-native development
-
-AI-powered applications
-
-Automation and intelligent workflows
-
-Application security
-
-Performance engineering
-
-Product engineering and developer experience
-
-💡 Beyond Code
-
-I enjoy thinking about the bigger picture:
-
-Technology → Product → Business → Users → Growth
-
-That means understanding not only how something should be built, but also why it should exist, who it serves, and how it can scale.
-
-🤝 Let's Build Something
-
-I'm interested in collaborating on:
-
-🚀 SaaS products
-
-🌐 Web platforms
-
-💼 Business software
-
-🤖 AI-powered applications
-
-🧩 Custom software
-
-🛒 E-commerce
-
-🔌 API & automation projects
-
-🌍 Long-term technology products
-
-Connect with me
+`SaaS products` `Web platforms` `Business software` `AI-powered applications` `Custom software` `E-commerce` `API & automation projects` `Long-term technology products`
 
 <p>
   <a href="https://www.linkedin.com/in/vatsalsonani/">
@@ -344,8 +213,8 @@ Connect with me
 
 <div align="center">
 
-Build. Learn. Ship. Scale.
+### Build. Learn. Ship. Scale.
 
-Turning ideas into software that works.
+**Turning ideas into software that works.**
 
 </div>
