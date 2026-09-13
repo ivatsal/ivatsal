@@ -18,20 +18,11 @@
   </a>
 </p>
 
-<!-- Live Upwork stats — auto-updated daily by .github/workflows/update-upwork-stats.yml -->
 <p>
-  <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ivatsal/ivatsal/main/badges/top-rated.json" alt="Upwork Status"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ivatsal/ivatsal/main/badges/job-success.json" alt="Upwork Job Success"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ivatsal/ivatsal/main/badges/rating.json" alt="Upwork Rating"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01611e3051755475c2">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ivatsal/ivatsal/main/badges/total-hours.json" alt="Upwork Hours"/>
-  </a>
+  <img src="https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=flat-square" alt="Upwork Status"/>
+  <img src="https://img.shields.io/badge/Job%20Success-100%25-14A800?style=flat-square" alt="Upwork Job Success"/>
+  <img src="https://img.shields.io/badge/Rating-5.0%2F5%20(4%20jobs)-14A800?style=flat-square" alt="Upwork Rating"/>
+  <img src="https://img.shields.io/badge/Hours-2.6K%2B-14A800?style=flat-square" alt="Upwork Hours"/>
 </p>
 
 </div>
@@ -70,8 +61,6 @@ I work across the complete web development lifecycle — **idea, architecture, U
 </div>
 
 My freelance work spans practical, client-focused development: **full-stack web development, frontend engineering, custom software, WordPress, Shopify, UI/UX implementation, and technical problem solving.**
-
-The badges above pull live from my Upwork profile via a scheduled GitHub Action — no manual updates needed.
 
 ---
 
@@ -166,19 +155,6 @@ Conversion-focused commerce experiences, custom integrations, and business-speci
 ### 🤖 AI & Automation
 AI-enabled features and automated workflows that reduce repetitive work and improve digital products.
 **Stack:** JavaScript/TypeScript · APIs · AI Services · Automation Workflows
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivatsal&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivatsal&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivatsal&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
